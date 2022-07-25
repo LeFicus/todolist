@@ -72,7 +72,6 @@ li:hover button {
 }
 
 li:hover button{
-    background-color: skyblue;
     display: block;
 }
 </style>

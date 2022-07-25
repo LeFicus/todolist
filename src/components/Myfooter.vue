@@ -19,7 +19,7 @@ export default {
     name:'Myfooter',
     props:["todos","checkAllTodo","clearnAllTodo"],
     computed:{
-        total(){
+        total(){4
             return this.todos.length
         },
         doneTotal(){
